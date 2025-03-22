@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+joblib
+numpy
+Pillow
+tensorflow
+scikit-learn

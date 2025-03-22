@@ -1,0 +1,6 @@
+
+tf27_env/
+
+venv/
+
+*.pyd
